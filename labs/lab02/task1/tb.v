@@ -43,7 +43,7 @@ module tb;
     t_i0 = 1'b0; t_i1 = 1'b1; t_s = 1'b1;  #5;
     t_i0 = 1'b1; t_i1 = 1'b1; t_s = 1'b1;  #5;
     $finish;
-
+    
   end
 
   initial
